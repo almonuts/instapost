@@ -2,7 +2,16 @@
   "name": "instapost",
   "version": "0.1.0",
   "description": "Instagram不動産投稿半自動作成アプリ - 物件画像にAIで生成したPR文を自動配置するWebアプリケーション",
-  "keywords": ["instagram", "real-estate", "ai", "nextjs", "image-processing", "property", "不動産", "投稿作成"],
+  "keywords": [
+    "instagram",
+    "real-estate",
+    "ai",
+    "nextjs",
+    "image-processing",
+    "property",
+    "不動産",
+    "投稿作成"
+  ],
   "author": "Assistant",
   "private": true,
   "scripts": {
@@ -26,7 +35,7 @@
     "react-hook-form": "^7.45.0",
     "react-intersection-observer": "^9.5.0",
     "react-slider": "^2.0.4",
-    "react-window": "^1.8.0",
+    "react-window": "^1.8.11",
     "sharp": "^0.32.0",
     "zod": "^3.22.0",
     "zustand": "^4.4.0"
